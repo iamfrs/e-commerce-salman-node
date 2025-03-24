@@ -1,0 +1,15 @@
+{
+            "compilerOptions": {
+              "esModuleInterop": true,
+              "target": "ES6",
+              "module": "CommonJS",
+              "sourceMap": false,
+              "outDir": "./out",
+              "strict": true,
+              "removeComments": true,
+              "preserveConstEnums": true,
+              "strictNullChecks": true,
+              "disableSizeLimit": true,
+              "skipLibCheck": true // for danfojs-node compiling without error
+            },
+          }

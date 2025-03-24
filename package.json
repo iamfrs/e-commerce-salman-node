@@ -1,0 +1,24 @@
+{
+  "name": "e-commerse",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@types/express": "^5.0.1",
+    "@types/express-fileupload": "^1.5.1",
+    "express": "^4.21.2",
+    "express-fileupload": "^1.5.1",
+    "fileupload": "^1.0.0",
+    "mongoose": "^8.12.2",
+    "node_custom_utils": "^0.3.3",
+    "ts-node": "^10.9.2"
+  },
+  "devDependencies": {
+    "typescript": "^5.8.2"
+  }
+}
